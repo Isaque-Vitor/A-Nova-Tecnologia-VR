@@ -1,13 +1,19 @@
   body{
-  	background: rgb(224,15,20);
+  	background: rgb(140,150,200);
   }
 
    strong {
-   	   color:  rgb(54,229,255);
+   	   color:  rgb(54,228,244);
    }
 
    p {
    	font-size: 45px;
    	text-align: center;
-   	color: rgb(0, 34, 255);
+   	color: rgb(18, 44, 255);
    }
+    ul {
+    font-size: 25px  
+ }
+
+  h2 {
+    font-size: 35px
